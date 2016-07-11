@@ -1,6 +1,6 @@
 # ITエンジニアのための機械学習入門
 
-## run
+## Run
 
 Build new image with Dockerfile and run following command :running:
 
